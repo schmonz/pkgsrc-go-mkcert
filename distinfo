@@ -63,3 +63,4 @@ Size (software.sslmate.com_src_go-pkcs12_@v_v0.2.0.mod) = 127 bytes
 BLAKE2s (software.sslmate.com_src_go-pkcs12_@v_v0.2.0.zip) = fb5062e7f881c739308b5f38e4de286f6ba55bee2d27291f827a61876a6e6766
 SHA512 (software.sslmate.com_src_go-pkcs12_@v_v0.2.0.zip) = dbeaed719249c3a8a394da7670a3bbfa79733b454b76e7605646f4b9032c7fe60da9b75080d22bb670988c059628d1214f6c2668eeddd4bccc5824c1391c8e9e
 Size (software.sslmate.com_src_go-pkcs12_@v_v0.2.0.zip) = 36374 bytes
+SHA1 (patch-truststore__linux.go) = 365617050260f0362201ac783e8e4148a9011ea9
