@@ -1,4 +1,4 @@
-$NetBSD$
+$NetBSD: patch-truststore__linux.go,v 1.1 2025/05/15 19:29:16 schmonz Exp $
 
 Support pkgsrc OpenSSL certsdir.
 

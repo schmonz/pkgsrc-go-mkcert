@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.69 2025/04/05 18:51:25 bsiegert Exp $
+# $NetBSD: Makefile,v 1.70 2025/05/15 19:29:16 schmonz Exp $
 
 DISTNAME=		mkcert-1.4.4
 PKGNAME=		${DISTNAME:S/^/go-/}
